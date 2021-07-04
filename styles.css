@@ -1,0 +1,124 @@
+body {
+    background-color: rgb(14, 13, 13);
+    font-family: Calibri;
+}
+
+#a {
+    background-color: crimson;
+    color: white;
+    padding: 20px;
+}
+
+#b {
+    background-color: maroon;
+    color: white;
+    font-style: italic;
+    padding: 5px 10px;
+}
+
+#c {
+    background-color: rgb(2, 169, 247);
+    color: black;
+    padding: 5px 10px;
+}
+
+#d {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+#e {
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+#f {
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#g {
+    float: right;
+}
+
+#h {
+    float: right;
+}
+
+#i {
+    color: blue;
+    font-size: 125%;
+    padding: 40px;
+}
+
+#j {
+    color: lightpink;
+    font-size: 125%; 
+    padding: 40px;
+}
+
+#k {
+    color: maroon;
+    font-size: 125%; 
+    padding: 40px;
+}
+
+#l {
+    color: lightskyblue;
+    font-size: 125%; 
+    padding: 40px;
+}
+
+#m {
+    color: orange;
+    font-size: 125%; 
+    padding: 40px;
+}
+
+#n {
+    color: limegreen;
+    font-size: 125%; 
+    padding: 40px;
+}
+
+#o {
+    font-size: 120%;
+    padding: 10px;
+}
+
+#p {
+    font-size: 120%;
+    padding: 10px;
+}
+
+#q {
+    font-size: 120%;
+    padding: 10px;
+}
+
+#r{
+    margin: 200px 400px;
+    width: 55%;
+}
+
+p{
+    margin: auto;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
